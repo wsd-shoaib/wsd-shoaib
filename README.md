@@ -25,7 +25,7 @@ I'm a passionate **Web Developer** from **Bangladesh** 🌍. Currently, I'm lear
 ## 📝 Blog
 
 Check out my personal blog:  
-🔗 [My First Blog Website](https://github.com/wsd-shoaib/my-first-blog-website)
+🔗 [My First Blog Website](https://github.com/wsd-shoaib/Blog-Website)
 
 ---
 
