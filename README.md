@@ -8,7 +8,7 @@ I'm a passionate **Web Developer** from **Bangladesh** 🌍. Currently, I'm lear
 - 🌱 I’m constantly learning **JavaScript** and trying to improve my **web development** skills.
 - 👯 I’m looking to collaborate on projects that involve **React**, **Frontend Development**, and **UI/UX design**.
 - 💬 Ask me about **React**, **JavaScript**, **HTML**, **CSS**, and **Frontend technologies**.
-- 📫 How to reach me: [Email me](mailto:wsdshoaib433298@gmail.com)
+- 📫 How to reach me: [Email me](wsdshoaib433298@gmail.com)
 - ⚡ Fun fact: I enjoy solving problems, building new things, and optimizing websites for performance.
 
 ## 🛠️ Technologies & Tools
