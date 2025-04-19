@@ -26,9 +26,10 @@ I'm a passionate **Web Developer** from **Bangladesh** 🌍. Currently, I'm lear
 
 Check out my personal blog:  
 🔗 [My First Blog Website](https://github.com/wsd-shoaib/Blog-Website)
-🔗 E-commerce-react-app
----
 
+---
+## Ecommerce website:
+First eCommerce react app 
 ## 🤝 Let's connect!
 
 - 🌐 [GitHub](https://github.com/wsd-shoaib)
